@@ -9,30 +9,26 @@
 <a href="https://github.com/Freyskeyd">
   <img align="left" alt="Freyskeyd's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+</a>
+<a href="https://freyskeyd.fr">
+  <img align="left" alt="Freyskeyd's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
+</a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
 ### I am Freyskeyd
-Sr. Software Engineer
+Backend Software Engineer living in Nantes, France.
+
+Self-taught, quick learner, passionate developer, traveler, music lover, animal defender and some other things
+
 
 ## 🧐 About
-Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, I am working on democratizing technical education and shape the next generation of engineers and developers.
-
-## 👯 Communities
-- Empowering students with both small and long term initiatives under @ [TheYouthProject](https://theyouthproject.in)
-- Co-organizer at [AllAboutWeb](https://twitter.com/allaboutweb) (A web technology centric meetup group)
-- Co-organizer at [Indore Technical Community](https://twitter.com/indoretechcom) (A local meetup group talking coding and technologies in trend)
-- Co-organizer of Hour of Code, Indore - One of the largest Hour of Code execution in India
+I post stuff on my [blog](https://freyskeyd.fr) and sometimes on [Twitter](https://twitter.com/Freyskeyd). Working on Real time messaging application by day building stuff in Rust by night.
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Angular, React, VanillaJS**
-- Backend development using **ASP.NET Core, Node, Express**
-- Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **Cassandra / DataStax**
-- Robust full-stack system design implementation
-- Desktop application development using **UWP, WPF or WinForms**
-- Mobile application development using **Android (Java or Kotlin), Xamarin Android / Xamarin iOS, Ionic**
-- Creating scalable cloud architecture using **Microsoft Azure**
-- Project Management and CD/CI using **Azure DevOps**
 
+- Backend development using **Rust, Erlang, Elixir, Scala, PHP**
+- Front-end development using **React**
+- Software architecture design for scalable and distributed application
