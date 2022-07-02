@@ -29,6 +29,6 @@ I post stuff on my [blog](https://freyskeyd.fr) and sometimes on [Twitter](https
 ## ⚡ Technologies
 Talk to me about
 
-- Backend development using **Rust, Erlang, Elixir, Scala, PHP**
-- Front-end development using **React**
+- Backend development using **Rust, Erlang, Elixir**
+- Front-end development (but be gentle)
 - Software architecture design for scalable and distributed application
