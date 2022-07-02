@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/freyskeyd/freyskeyd/master/Hi.gif" width="30px"></h2>
+## Hello World! :wave: </h2>
 
 <a href="https://twitter.com/Freyskeyd">
   <img align="left" alt="Freyskeyd's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
