@@ -2,7 +2,14 @@
 name = "freyskeyd"
 version = "0.1.0"
 edition = "2021"
+description = "A simple CLI about me"
+license = "MIT"
+authors = ["Freyskeyd <freyskeyd@gmail.com>"]
+homepage = "https://github.com/Freyskeyd/Freyskeyd"
+repository = "https://github.com/Freyskeyd/Freyskeyd"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+inquire = "0.6.0"
+webbrowser = "0.8.7"
