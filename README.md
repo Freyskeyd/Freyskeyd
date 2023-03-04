@@ -1,29 +1,10 @@
-## Hello World! :wave: </h2>
+## Hello I'm Freyskeyd!
 
-<a href="https://twitter.com/Freyskeyd">
-  <img align="left" alt="Freyskeyd's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/freyskeyd/">
-  <img align="left" alt="Freyskeyd's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Freyskeyd">
-  <img align="left" alt="Freyskeyd's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-</a>
-<a href="https://freyskeyd.fr">
-  <img align="left" alt="Freyskeyd's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
-</a>
-<br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+*Senior software engineer [@toposware](https://github.com/toposware)*
 
+> I'm a curious, quick learner and passionate developer. Mostly working on Rust related projects.
 
-### I am Freyskeyd
-Backend Software Engineer living in Nantes, France.
-
-Self-taught, quick learner, passionate developer, traveler, music lover, animal defender and some other things
-
-
-## 🧐 About
+## About
 I post stuff on my [blog](https://freyskeyd.fr) and sometimes on [Twitter](https://twitter.com/Freyskeyd). Working on Real time messaging application by day building stuff in Rust by night.
 
 ## ⚡ Technologies
