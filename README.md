@@ -1,6 +1,6 @@
 ## Hello I'm Freyskeyd!
 
-*Senior software engineer [@toposware](https://github.com/toposware)*
+*Staff software engineer [@toposware](https://github.com/toposware)*
 
 > I'm a curious, quick learner and passionate developer. Mostly working on Rust related projects.
 
