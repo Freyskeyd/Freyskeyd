@@ -1,6 +1,8 @@
 ## Hello I'm Freyskeyd!
 
-*Staff software engineer [@toposware](https://github.com/toposware)*
+*Technical Lead Manager [@Polygon](https://polygon.technology/) responsible for AggLayer-node*
+
+*~~Staff software engineer~~ [@toposware](https://github.com/toposware)*
 
 > I'm a curious, quick learner and passionate developer. Mostly working on Rust related projects.
 
