@@ -1,6 +1,6 @@
 ## Hello I'm Freyskeyd!
 
-*Technical Lead [@Polygon](https://polygon.technology/) responsible for AggLayer-node*
+*Technical Lead [@Polygon](https://polygon.technology/) responsible for Agglayer-node*
 
 *~~Staff software engineer~~ [@toposware](https://github.com/toposware)*
 
